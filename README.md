@@ -64,5 +64,4 @@ All 16 input codes were simulated with the Wokwi CLI. Code 1011 shows C, code
 
 Made by Chen Yixin at the Make Your Own Chip workshop with Tiny Tapeout,
 ArtScience Museum, Singapore, 24 November 2026. Built on the official Tiny
-Tapeout Wokwi template by Uri Shaked. The gate-level circuit and its wiring
-were generated with help from Claude.
+Tapeout Wokwi template by Uri Shaked.
